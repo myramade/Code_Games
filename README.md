@@ -71,6 +71,6 @@ Put your logic skills to the test
 7. Learn how to create 360 VR videos using my labs [MyraMade](http://myramade.github.io]
 
 # Connect with me on social media
-Follow me on TikTok for tech tutorials and more [Learn with Myra ](https://tiktok.com/learnwithmyra)
-Connect with me on [LinkedIn](http://linkedin.com/in/myraroldan)
-Join in on the conversations Monday on [Twitter](http://twitter.com/myramade) using #MyraMonday 
+- Follow me on TikTok for tech tutorials and more [Learn with Myra ](https://tiktok.com/learnwithmyra)
+- Connect with me on [LinkedIn](http://linkedin.com/in/myraroldan)
+- Join in on the conversations Monday on [Twitter](http://twitter.com/myramade) using #MyraMonday 
