@@ -4,7 +4,7 @@ Hi Friends!
 
 Welcome to my list of Games that Teach! If you follow me on [TikTok](https://www.tiktok.com/@learnwithmyra) you may have seen a few of my videos where I shared a few of these games. If you found me through other social media links - glad you're here. I have a few criteria for this list of games:
 1. They should be educational - ya learn something
-2. They should be FREE or cost no more than $10 USD
+2. They should be FREE or cost no more than $15 USD
 3. They should be be gated behind a registration wall (although there is one gated game but it's still free)
 4. They should be fun or interesting to play
 
@@ -27,6 +27,12 @@ List of games to learn how to code:
 9. [Robocode](https://robocode.sourceforge.io/) Build virtual robot battle tanks using Java then play against other players in real-time
 10. [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) Yes, some companies still use Ruby. In this game your help your knight in shining armour ascend a tower where he'll face obstacles and unmentionable danger.
 11. [LowRes NX](https://lowresnx.inutilis.com/) Program retro games
+12. [While True : Learn()](https://luden.io/wtl/) Game that simulate a day in the life of a Machine Learing Scientist
+13. [Code Monkey](https://www.playcodemonkey.com/) Write code and catch bananas
+14. [SpaceChem](http://www.zachtronics.com/spacechem/) producing molecules using chemical pathways similar in style to visual programming
+15. [Glitchspace](https://store.steampowered.com/app/290060/Glitchspace/) program blocks to navigate rooms to exit without falling or getting derezzed by a data stream. Play on Steam FREE
+16. [Portal 2](https://store.steampowered.com/app/620/Portal_2/) you'll find yourself in the remains of Aperture Laboratories, where the sadistic and sarcastic AI, GladOS, is subjecting you to torturous puzzles. Play on Steam $9.99
+17. [Gladiabots](https://gladiabots.com/) program a robots behavior for battle. Play on Steam $14.99
 
 # Scripting 
 1. [TIS-100](http://www.zachtronics.com/tis-100/) not going to lie, this game is not easy. Torture yourself for a bit with some assembly language (the acient language of vintage programmers)
@@ -63,6 +69,9 @@ List of games to learn CSS, HTML and some other stuff
 # Logic Games
 Put your logic skills to the test
 1. [Huamn Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) download to your phone, tablet, or computer and solve some challenges while moving up the ranks in the corporate world
+2. [Logic Puzzle](https://logic.puzzlebaron.com/) create your puzzle grid and then solve it
+3. [Project Euler](https://projecteuler.net/) Don't hate me because I made you math
+4.  [Lightbot](https://lightbot.com/) solve the puzzle using basic logic
 
 # Assorted Category Games
 1. [Cloud Quest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner) Learn the basics of cloud computing while preping for AWS Certificed Cloud Practitioner Certification 
@@ -82,6 +91,8 @@ Put your logic skills to the test
 5. Learn a programming language through challenges with [Exercism.io](https://exercism.org/)
 6. Learn git with [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 7. Learn how to create 360 VR videos using my labs [MyraMade](http://myramade.github.io]
+8. Here's one of my favorite tech courses for business majors [CS50 Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
+9. My favorite free Harvard Computer Science course is this one [CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 # Connect with me on social media
 - Follow me on TikTok for tech tutorials and more [Learn with Myra ](https://tiktok.com/@learnwithmyra)
