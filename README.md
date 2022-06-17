@@ -13,7 +13,7 @@ List of games to learn how to code:
 10. [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) Yes, some companies still use Ruby. In this game your help your knight in shining armour ascend a tower where he'll face obstacles and unmentionable danger.
 11. [LowRes NX](https://lowresnx.inutilis.com/) Program retro games
 
-# Scriptiong 
+# Scripting 
 1. [TIS-100](http://www.zachtronics.com/tis-100/) not going to lie, this game is not easy. Torture yourself for a bit with some assembly language (the acient language of vintage programmers)
 2. [VIM Advantures](https://vim-adventures.com/) VIM is a terminal text editor. Learn shorcust, commands, and operators
 3. [Command Line Heroes BASH](https://www.redhat.com/en/command-line-heroes/bash/index.html) how many BASH commands can you type in 60 seconds under pressure? 
