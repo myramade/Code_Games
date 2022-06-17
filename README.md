@@ -65,7 +65,7 @@ Put your logic skills to the test
 1. [Huamn Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) download to your phone, tablet, or computer and solve some challenges while moving up the ranks in the corporate world
 
 # Assorted Category Games
-1. [Cloud Quest]{https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner) Learn the basics of cloud computing while preping for AWS Certificed Cloud Practitioner Certification 
+1. [Cloud Quest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner) Learn the basics of cloud computing while preping for AWS Certificed Cloud Practitioner Certification 
 2. [That PM Game](http://thatpmgame.com/) can you run a project within tiem and budget? Put your skills to the test with this addictive simple game
 3. [Data Games](http://ccssgames.com/) a series of games to learn data analytics
 4. [GoPractice](https://gopractice.io/course/pm/) Learn Data Driven Product Management
