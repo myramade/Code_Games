@@ -32,28 +32,28 @@ List of games to learn how to code:
 1. [TIS-100](http://www.zachtronics.com/tis-100/) not going to lie, this game is not easy. Torture yourself for a bit with some assembly language (the acient language of vintage programmers)
 2. [VIM Advantures](https://vim-adventures.com/) VIM is a terminal text editor. Learn shorcust, commands, and operators
 3. [Command Line Heroes BASH](https://www.redhat.com/en/command-line-heroes/bash/index.html) how many BASH commands can you type in 60 seconds under pressure? 
-4. [Hack RUN](https://apps.apple.com/us/app/hack-run/id407678003)a game for iPhone users, a terminal game to hack your way to the heart of a mysterious organization
+4. [Hack RUN](https://apps.apple.com/us/app/hack-run/id407678003) a game for iPhone users, a terminal game to hack your way to the heart of a mysterious organization
 5. [Hacknet](https://hacknet-os.com/) an immersive terminal hacking game
 6. [JamstackAttack](http://jamstack-attack.herokuapp.com/) Mini terminal games to put your skills to the test, includng code debuggin and typing commands
 7. [Oh My Git!](https://ohmygit.org/) Practice your git skills
 8. [Twillio Quest](https://www.twilio.com/quest) Lead a space crew on a mission to save The Cloud. 
 
 
-# SQl Games
+# SQL Games
 List of games to learn and practice SQL skills. (Note: I say "Sequel" while most berate me and want me to call is "S.Q.L." - what do you call it? )
 1. [SQL Murder Mystery](http://mystery.knightlab.com/) Put on your detective hat and solve the murder
 2. [SQL Island](https://sql-island.informatik.uni-kl.de/) Practive your SQL skills and espace the island. *NOTE: appears in german or dutch, change the language to your preferred language)*
 3. [SQL Police Dept](https://sqlpd.com/) Solve the polica cae using SQL commands
-4. [Schemaverse](https://schemaverse.com/)Travel into space and compete against other players using SQL Commands to command your fleet
+4. [Schemaverse](https://schemaverse.com/) Travel into space and compete against other players using SQL Commands to command your fleet
 
 # Web_Dev Games
 List of games to learn CSS, HTML and some other stuff
-1. [CSS Diner](https://flukeout.github.io/) learn CSS as your sorth through sushi
+1. [CSS Diner](https://flukeout.github.io/) Learn CSS as your sorth through sushi
 2. [Flexbox Froggy](http://flexboxfroggy.com/) Get the froggy to the lilypad using CSS
 3. [Flexbox Defense](http://www.flexboxdefense.com/) Portect your tower stop your enemies using CSS
 4. [Flexbox Zombies](https://mastery.games/flexboxzombies/) Surive a zombie apocolypse using CSS
 5. [Grid Garden](https://cssgridgarden.com/)start your own carrot farm using CSS
-6. [CSS Battle](https://cssbattle.dev/)Brush up on your golfing while using CSS
+6. [CSS Battle](https://cssbattle.dev/) Brush up on your golfing while using CSS
 7. [Roadmap](http://victordarras.fr/cssgame/) Play the game and avoid the walls, then leanr how it was created. 
 8. [Carnival Game](https://codepen.io/una/pen/NxZaNr) Hit the targets and then view the code in the editor to brush up on your CSS And HTML 
 9. [Service Workies](https://serviceworkies.com/) A strnage little game where you learn the magic of Service Works and aim to improve performance
