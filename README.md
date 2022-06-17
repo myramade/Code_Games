@@ -1,6 +1,19 @@
 ![games](https://user-images.githubusercontent.com/28787937/174200346-37d33915-b660-469b-a450-fbbb30e1a46c.png)
 
-# Code_Games
+Hi Friends! 
+
+Welcome to my list of Games that Teach! If you follow me on [TikTok](https://www.tiktok.com/@learnwithmyra) you may have seen a few of my videos where I shared a few of these games. If you found me through other social media links - glad you're here. I have a few criteria for this list of games:
+1. They should be educational - ya learn something
+2. They should be FREE or cost no more than $10 USD
+3. They should be be gated behind a registration wall (although there is one gated game but it's still free)
+4. They should be fun or interesting to play
+
+If you have a game you'd like to have me add to the list, message me on [Linkedin](http://linkedin.com/in/myraroldan)
+
+**Happy Playing!**
+
+
+# Code Games
 List of games to learn how to code:
 
 1. [Codewars](https://www.codewars.com/) sharpen your coding skills
@@ -26,7 +39,7 @@ List of games to learn how to code:
 8. [Twillio Quest](https://www.twilio.com/quest) Lead a space crew on a mission to save The Cloud. 
 
 
-# SQl_Games
+# SQl Games
 List of games to learn and practice SQL skills. (Note: I say "Sequel" while most berate me and want me to call is "S.Q.L." - what do you call it? )
 1. [SQL Murder Mystery](http://mystery.knightlab.com/) Put on your detective hat and solve the murder
 2. [SQL Island](https://sql-island.informatik.uni-kl.de/) Practive your SQL skills and espace the island. *NOTE: appears in german or dutch, change the language to your preferred language)*
@@ -71,6 +84,6 @@ Put your logic skills to the test
 7. Learn how to create 360 VR videos using my labs [MyraMade](http://myramade.github.io]
 
 # Connect with me on social media
-- Follow me on TikTok for tech tutorials and more [Learn with Myra ](https://tiktok.com/learnwithmyra)
+- Follow me on TikTok for tech tutorials and more [Learn with Myra ](https://tiktok.com/@learnwithmyra)
 - Connect with me on [LinkedIn](http://linkedin.com/in/myraroldan)
 - Join in on the conversations Monday on [Twitter](http://twitter.com/myramade) using #MyraMonday 
