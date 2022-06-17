@@ -1,3 +1,5 @@
+[logo]:http://rogerdudler.github.io/git-guide/ "play"
+
 # Code_Games
 List of games to learn how to code:
 
