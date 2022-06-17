@@ -1,9 +1,9 @@
 # Code_Games
 List of games to learn how to code:
 
-1. [Codewars](https://www.codewars.com/)
+1. [Codewars](https://www.codewars.com/) sharpen your coding skills
 2. [Code Combat](https://codecombat.com/) Move your Hero through the game using basic commands. dlearn Python, Javascript, CoffeeScript or Lua scriptiong 
-3. [CodinGame](https://www.codingame.com/start)Free games to learn one of 25 programming languages
+3. [CodinGame](https://www.codingame.com/start) Free games to learn one of 25 programming languages
 4. [Code Monster](http://www.crunchzilla.com/code-monster) not sa super interesting game but it gets the job done
 5. [Blockly](https://blockly.games/) Solve challenges using block coding
 6. [CheckIO](https://checkio.org/) Solve challenges using Python or TypeScript
