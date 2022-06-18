@@ -62,7 +62,7 @@ List of games to learn CSS, HTML and some other stuff
 6. [CSS Battle](https://cssbattle.dev/) Brush up on your golfing while using CSS
 7. [Roadmap](http://victordarras.fr/cssgame/) Play the game and avoid the walls, then leanr how it was created. 
 8. [Carnival Game](https://codepen.io/una/pen/NxZaNr) Hit the targets and then view the code in the editor to brush up on your CSS And HTML 
-9. [Service Workies](https://serviceworkies.com/) A strnage little game where you learn the magic of Service Works and aim to improve performance
+9. [Service Workies](https://serviceworkies.com/) A strange little game where you learn the magic of Service Works and aim to improve performance
 10.  [Unfold](https://rupl.github.io/unfold/) Unfold a box model and brush up on CSS
 11.  [Pixact.ly](https://pixact.ly/) can you create boxes based on the given dimensions? test your pixel skills 
 
