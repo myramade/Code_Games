@@ -33,6 +33,7 @@ List of games to learn how to code:
 15. [Glitchspace](https://store.steampowered.com/app/290060/Glitchspace/) program blocks to navigate rooms to exit without falling or getting derezzed by a data stream. Play on Steam FREE
 16. [Portal 2](https://store.steampowered.com/app/620/Portal_2/) you'll find yourself in the remains of Aperture Laboratories, where the sadistic and sarcastic AI, GladOS, is subjecting you to torturous puzzles. Play on Steam $9.99
 17. [Gladiabots](https://gladiabots.com/) program a robots behavior for battle. Play on Steam $14.99
+18. [Untrusted](http://alexnisnevich.github.io/untrusted/) use your javascript skills to get out!
 
 # Scripting 
 1. [TIS-100](http://www.zachtronics.com/tis-100/) not going to lie, this game is not easy. Torture yourself for a bit with some assembly language (the acient language of vintage programmers)
