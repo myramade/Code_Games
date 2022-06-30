@@ -59,13 +59,15 @@ List of games to learn CSS, HTML and some other stuff
 2. [Flexbox Froggy](http://flexboxfroggy.com/) Get the froggy to the lilypad using CSS
 3. [Flexbox Defense](http://www.flexboxdefense.com/) Portect your tower stop your enemies using CSS
 4. [Flexbox Zombies](https://mastery.games/flexboxzombies/) Surive a zombie apocolypse using CSS
-5. [Grid Garden](https://cssgridgarden.com/)start your own carrot farm using CSS
+5. [Grid Garden](https://cssgridgarden.com/)nstart your own carrot farm using CSS
 6. [CSS Battle](https://cssbattle.dev/) Brush up on your golfing while using CSS
 7. [Roadmap](http://victordarras.fr/cssgame/) Play the game and avoid the walls, then leanr how it was created. 
 8. [Carnival Game](https://codepen.io/una/pen/NxZaNr) Hit the targets and then view the code in the editor to brush up on your CSS And HTML 
 9. [Service Workies](https://serviceworkies.com/) A strange little game where you learn the magic of Service Works and aim to improve performance
-10.  [Unfold](https://rupl.github.io/unfold/) Unfold a box model and brush up on CSS
-11.  [Pixact.ly](https://pixact.ly/) can you create boxes based on the given dimensions? test your pixel skills 
+10. [Unfold](https://rupl.github.io/unfold/) Unfold a box model and brush up on CSS
+11. [Pixact.ly](https://pixact.ly/) can you create boxes based on the given dimensions? test your pixel skills 
+12. [Grid Attack](https://codingfantasy.com/games/css-grid-attack) put your CSS skills to the test
+13. [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure) another fun CSS game
 
 # Logic Games
 Put your logic skills to the test
@@ -94,6 +96,11 @@ Put your logic skills to the test
 7. Learn how to create 360 VR videos using my labs [MyraMade](http://myramade.github.io]
 8. Here's one of my favorite tech courses for business majors [CS50 Computer Science for Business Professionals](https://www.edx.org/course/cs50s-computer-science-for-business-professionals)
 9. My favorite free Harvard Computer Science course is this one [CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+10. Learn a new programming language with [FreeCodeCamp](https://www.freecodecamp.org/)
+12. Learn a new skill with [Codecademy](https://www.codecademy.com/)
+
+# Build Something
+1. Build games and learn how to use AI [Game AI & Reinforcement Learnign with Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
 
 # Connect with me on social media
 - Follow me on TikTok for tech tutorials and more [Learn with Myra ](https://tiktok.com/@learnwithmyra)
