@@ -74,17 +74,20 @@ Put your logic skills to the test
 1. [Huamn Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) download to your phone, tablet, or computer and solve some challenges while moving up the ranks in the corporate world
 2. [Logic Puzzle](https://logic.puzzlebaron.com/) create your puzzle grid and then solve it
 3. [Project Euler](https://projecteuler.net/) Don't hate me because I made you math
-4.  [Lightbot](https://lightbot.com/) solve the puzzle using basic logic
+4. [Lightbot](https://lightbot.com/) solve the puzzle using basic logic
+5. [7 Billion Humans](https://tomorrowcorporation.com/7billionhumans) a logic puzzle game from the makers of the Human Resource Machine. 
 
 # Assorted Category Games
 1. [Cloud Quest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner) Learn the basics of cloud computing while preping for AWS Certificed Cloud Practitioner Certification 
-2. [That PM Game](http://thatpmgame.com/) can you run a project within tiem and budget? Put your skills to the test with this addictive simple game
+2. [That PM Game](http://thatpmgame.com/) can you run a project within time and budget? Put your skills to the test with this addictive simple game
 3. [Data Games](http://ccssgames.com/) a series of games to learn data analytics
 4. [GoPractice](https://gopractice.io/course/pm/) Learn Data Driven Product Management
 5. [DevOps Dream](https://devops.games/) practive your devops skills 
 6. [Data Center Sim](https://play.google.com/store/apps/details?id=com.mightygamesgroup.xteamdell&hl=en_US&gl=US) iPhone game wtih great graphics. Manage a data center
 7. [Hack the Box](https://www.hackthebox.com/) learn by hacking 
 8. [Eve Online](https://www.eveonline.com/) An immersive war game where politics, piracy and trading are all part of the game
+9. [Coding Game](https://apps.apple.com/us/app/coding-game-binary-hacker/id1263212152) for iphone only - binary math game. Do you know binary? 
+10. [Penjee](https://games.penjee.com/binary-numbers-game/) binary math game. How many can you get right
 
 # LEARN a New Skill
 1. Learn SQL with [DataCamp](https://www.datacamp.com/courses/introduction-to-sql) 
